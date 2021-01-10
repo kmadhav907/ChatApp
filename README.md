@@ -1,7 +1,13 @@
 # React Firebase Super Chat
 
-A simple fullstack chat demo with React and Firebase. 
+A simple fullstack chat demo with React and Firebase
 
-Watch on full [React Firebase Chat Tutorial](https://youtu.be/zQyrwxMPm88) on YouTube. 
+### Live Demo at https://chatapp-firebase-ad083.firebaseapp.com/
 
-[Live demo](https://fireship-demos.web.app/)
+### CODE SETUP
+- Clone this repository
+- `cd ChatApp`
+- `npm install` or `yarn install`
+- Config your Firebase API's in App.js 
+- `npm start` or `yarn start`
+
