@@ -10,13 +10,7 @@ import { useAuthState } from 'react-firebase-hooks/auth'
 import { useCollectionData } from 'react-firebase-hooks/firestore'
 
 firebase.initializeApp({
-  apiKey: 'AIzaSyAI1B16tV0es1Yb5v8F88yNf08seA4jfNs',
-  authDomain: 'chatapp-firebase-ad083.firebaseapp.com',
-  projectId: 'chatapp-firebase-ad083',
-  storageBucket: 'chatapp-firebase-ad083.appspot.com',
-  messagingSenderId: '478267747683',
-  appId: '1:478267747683:web:c8ef32d18fe77b47433756',
-  measurementId: 'G-XQG5GS22XX',
+ // Your Firebase Configuration
 })
 
 const auth = firebase.auth()
